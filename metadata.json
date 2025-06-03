@@ -1,0 +1,19 @@
+{
+  "title": "Der algorithmische Gegner",
+  "author": "Gunnar Steincke",
+  "language": "de",
+  "description": "??? Fanfiction",
+  "publisher": "Selbstverlag",
+  "date": "2025-06-03",
+  "cover_image": "cover.png",
+  
+  "format": "A4",
+  "font": "DejaVuSerif",
+  "font_size": 9,
+  "margin_left": 20,
+  "margin_right": 20,
+  "margin_top": 25,
+  "margin_bottom": 25,
+  "hyphenate": true,
+
+}
