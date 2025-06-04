@@ -16,4 +16,22 @@
   "margin_bottom": 25,
   "hyphenate": true,
 
+    "acts": [
+    {
+      "number": 1,
+      "title": "DER FALL DES SYSTEMS"
+    },
+    {
+      "number": 2,
+      "title": "RÜCKKEHR AUS DER VERGANGENHEIT"
+    },
+    {
+      "number": 3,
+      "title": "DAS TÖDLICHE SPIEL"
+    }
+    {
+      "number": 4,
+      "title": "SPIEGELWELTEN"
+    }
+  ]
 }
